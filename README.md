@@ -20,7 +20,8 @@ It is only a name of task in Windows. It won't be shown in your window.
 You can choose 'daily' for example. Next step is to choose start of script.
 * Then, you have to choose action. To run script you have to choose 'start a program' option.
 Finally, you have to find take-care-of-your-eyes.py in your files. 
-When the script is created, you will be able to see it on the list. When you right-click on it and choose 'properties', then 'triggers' you can click 'repeat task every..' option. Now, you can change it to triggers every 1 hour. 
+When the script is created, you will be able to see it on the list.
+* When you right-click on it and choose 'properties', then 'triggers' you can click 'repeat task every..' option. Now, you can change it to triggers every 1 hour. 
 * To activate task you have to click 'Run' button on the right side.
 
 
