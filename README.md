@@ -12,6 +12,7 @@
 
 
 ## Setup
+For Windows users:
 * To run this project, open Windows Task Scheduler
 * On the right create basic task.
 * Then choose name and short descritpion of the script. For example: "Take care of your eyes!".
